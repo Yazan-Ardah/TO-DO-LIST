@@ -3,8 +3,6 @@
 
 A simple, clean to-do list app built with vanilla HTML, CSS, and JavaScript.
 
-🔗 **Live demo:** [(https://github.com/Yazan-Ardah/TO-DO-LIST)]
-
 ## Features
 
 - Add tasks via input field or pressing the Add Task button

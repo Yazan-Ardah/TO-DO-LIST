@@ -1,9 +1,9 @@
 # To-Do List
-![screenshot of app](Screenshot 2026-06-20 at 11.24.55PM.png)
+![screenshot of app](screenshots.png)
 
 A simple, clean to-do list app built with vanilla HTML, CSS, and JavaScript.
 
-🔗 **Live demo:** [your-github-pages-link-here]
+🔗 **Live demo:** [(https://github.com/Yazan-Ardah/TO-DO-LIST)]
 
 ## Features
 

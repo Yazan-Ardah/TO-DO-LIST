@@ -1,5 +1,6 @@
 # To-Do List
 ![screenshot of app](screenshots.png)
+🔗 **Live demo:** [(https://to-do-list-ten-phi-47.vercel.app/)]
 
 A simple, clean to-do list app built with vanilla HTML, CSS, and JavaScript.
 
